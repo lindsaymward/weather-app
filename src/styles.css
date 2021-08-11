@@ -25,6 +25,9 @@ h4 {
   hyphens: auto;
   text-shadow: 0.5px 1px rgba(0, 0, 0, 0.7);
 }
+footer {
+  text-align: center;
+}
 ::placeholder {
   font-style: italic;
 }
